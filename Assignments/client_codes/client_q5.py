@@ -4,7 +4,7 @@ import json
 
 # MQTT broker configuration
 broker_address = "test.mosquitto.org"  
-broker_port = 1883  
+broker_port = 1993  
 publish_topic = "machinedata"  
 
 
